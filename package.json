@@ -1,5 +1,7 @@
 {
   "name": "kanban-board",
+  "description": "A Kanban board built with React, Typescript and Tailwind CSS",
+  "homepage": "https://main.d1dgp7akmrr86z.amplifyapp.com/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
