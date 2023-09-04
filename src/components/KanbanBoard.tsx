@@ -78,6 +78,12 @@ function KanbanBoard() {
           <PlusIcon />
           Add Column
         </button>
+
+        {!columns.length && (
+          <h1 className="md:text-2xl  font-semibold px-5">
+            No columns have been added yet... please add a column!
+          </h1>
+        )}
       </div>
       <DndContext
         sensors={sensors}
