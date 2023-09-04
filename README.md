@@ -1,16 +1,6 @@
 # Kanban Board App
 
-Table of Contents
-Introduction
-Features
-Getting Started
-Prerequisites
-Installation
-Usage
-Contributing
-License
-Introduction
-The Kanban Board App is a simple and intuitive project management tool that helps teams organize their work using the Kanban method. This app allows you to create boards, lists, and cards to visualize your tasks and workflow, making it easier to track progress and collaborate effectively.
+A simple Kanban Board App built with React / Vite, Typescript / JavaScript, and Tailwind CSS. The app has been deployed to Vercel.
 
 ## Features
 
