@@ -57,7 +57,7 @@ Open your web browser and go to http://localhost:3000 to access the Kanban Board
 ## Screenshots
 
 ![Imgur](https://i.imgur.com/Sc4Pc7y.png)
-<br />
+<br><br>
 ![Imgur](https://i.imgur.com/fgX0xLh.png)
-<br />
+<br><br>
 ![Imgur](https://i.imgur.com/xNC92WS.png)
