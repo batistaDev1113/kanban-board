@@ -29,14 +29,12 @@ git clone https://github.com/yourusername/kanban-board-app.git
 
 ```bash
 cd kanban-board-app
-Install the dependencies:
 ```
 
 - Install the dependencies:
 
 ```bash
 npm install
-Configure environment variables (if necessary).
 ```
 
 ### Start the app:
